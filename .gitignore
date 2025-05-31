@@ -10,6 +10,8 @@ build
 private
 restats
 
+*.DS_Store
+
 # Coverage reports
 .coverage
 .coverage.*
